@@ -87,6 +87,7 @@ docs/site/
 target/
 
 # Jupyter Notebook
+notebooks/
 .ipynb_checkpoints
 
 # IPython
